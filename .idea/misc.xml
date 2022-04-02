@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/drawable/ic_baseline_chevron_left_24.xml" value="0.182" />
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.166" />
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1775" />
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/drawable/ic_baseline_volume_up_24.xml" value="0.182" />
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/drawable/ic_share.xml" value="0.176" />
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/drawable/search_view_bacground.xml" value="0.1" />
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/layout/fragment_info_dictionary.xml" value="0.2" />
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/layout/item_rv_info.xml" value="0.264" />
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/layout/rv_item.xml" value="0.264" />
+        <entry key="..\:/Android_studio/Coroutines/My Dictionary/app/src/main/res/xml/searchable.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
